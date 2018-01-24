@@ -15,3 +15,13 @@
 登录时用到的技术：
   
   1. cookie技术（未添加）
+  
+部分界面截图如下：
+
+![截图1](https://github.com/CaoJiaBiao/RegistAndLogin/raw/master/Screenshots/1.png)
+
+![截图1](https://github.com/CaoJiaBiao/RegistAndLogin/raw/master/Screenshots/2.png)
+
+![截图1](https://github.com/CaoJiaBiao/RegistAndLogin/raw/master/Screenshots/3.png)
+
+![截图1](https://github.com/CaoJiaBiao/RegistAndLogin/raw/master/Screenshots/4.png)
