@@ -1,4 +1,4 @@
-# RegistAndLogin
+﻿# RegistAndLogin
 
 个人信息注册与登录
 
@@ -15,6 +15,8 @@
 登录时用到的技术：
   
   1. cookie技术（未添加）
+
+  2. Jquery和Servlet
   
 部分界面截图如下：
 
